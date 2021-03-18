@@ -1,0 +1,4 @@
+name: ChatManager
+version: ${project.version}
+main: net.craftions.chatmanager.ChatManager
+api-version: 1.16
